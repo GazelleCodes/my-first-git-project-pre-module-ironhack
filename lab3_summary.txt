@@ -1,0 +1,18 @@
+Lab 3 Summary
+
+What is SSH?
+SSH stands for Secure Shell. It is a secure way to connect my computer to GitHub. SSH is useful because it allows me to securely send and receive files without entering my GitHub password every time.
+
+What is a remote repository?
+A remote repository is a copy of my Git repository stored online, for example on GitHub. It allows me to store my project online and access it from different computers.
+
+What does git push do?
+The `git push` command sends my local commits to the remote repository on GitHub. This updates the GitHub repository with the changes I made on my computer.
+
+My GitHub repository URL:
+git@github.com:GazelleCodes/my-first-git-project-pre-module-ironhack.git
+
+Challenges I faced:
+One challenge I faced was setting up my SSH key and connecting my local Git repository to GitHub. I also had to learn how to use `git push` to upload my commits to GitHub.
+
+Overall, I learned how to connect my local Git repository to GitHub using SSH and how to upload my work to a remote repository.
