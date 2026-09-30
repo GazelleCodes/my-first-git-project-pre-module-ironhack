@@ -1,0 +1,17 @@
+Lab 2 Summary
+
+What is a branch?
+A branch is a separate version of a project where I can make changes without changing the main branch.
+
+Why are branches useful?
+Branches are useful because they allow me to work on new features or changes separately.
+This helps keep the main project safe while I test or develop something new.
+
+What happens when you merge?
+When I merge a branch, the changes from that branch are added to another branch, usually the main branch.
+This combines the work from both branches into one project.
+
+Challenges I faced:
+One challenge I faced was understanding how branches work and how they are different from the main branch. 
+I also had to learn the correct Git commands for creating, switching, and merging branches.
+
