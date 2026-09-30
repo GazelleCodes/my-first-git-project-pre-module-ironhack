@@ -1,0 +1,20 @@
+Lab 1 Summary
+
+What I learned:
+I learned how to create a project folder on my computer and initialize it as a Git repository. 
+I learned how to create Python files and use Git to keep track of my project files. 
+I also learned how to stage files and make commits. Finally, I learned how to view the history of my commits.
+
+Challenges I faced:
+One challenge was understanding the difference between staging a file and committing a file. 
+I also had to learn how to use Git commands correctly in the Command Prompt.
+
+Git commands:
+
+* `git init` creates a new Git repository.
+* `git status` shows the current status of the files.
+* `git add` stages files so they can be included in a commit.
+* `git commit` saves the staged changes.
+* `git log` shows the history of previous commits.
+
+Overall, I learned the basic Git workflow: create files, check their status, stage them, commit them, and view the commit history.
